@@ -6,7 +6,7 @@ This repository will contain the writeups of inactive boxes and challenges of HT
 
 The follwing list will contain all the solved boxes.
 
-1. Lame
+1. [Lame](Boxes/Lame/Lame_writeup.md)
 
 ## Chanllenges
 
