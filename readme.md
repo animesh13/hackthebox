@@ -8,6 +8,9 @@ The follwing list will contain all the solved boxes.
 
 1. [Lame](Boxes/Lame/Lame_writeup.md)
 2. [Brainfuck](Boxes/Brainfuck/Brainfuck_writeup.md)
+3. [Bashed](Boxes/Bashed/Bashed_writeup.md)
+4. [Shocker](Boxes/Shocker/Shocker_writeup.md)
+5. [Nibbles](Boxes/Nibbles/Nibbles_writeup.md)
 
 ## Chanllenges
 
