@@ -11,6 +11,9 @@ The follwing list will contain all the solved boxes.
 3. [Bashed](Boxes/Bashed/Bashed_writeup.md)
 4. [Shocker](Boxes/Shocker/Shocker_writeup.md)
 5. [Nibbles](Boxes/Nibbles/Nibbles_writeup.md)
+6. [Beep](Boxes/Beep/Beep_writeup.md)
+7. [Cronos](Boxes/Cronos/Cronos_Writeup.md)
+8. [Nineveh](Boxes/Nineveh/Nineveh_writeup.md)
 
 ## Chanllenges
 
