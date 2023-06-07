@@ -14,6 +14,11 @@ The follwing list will contain all the solved boxes.
 6. [Beep](Boxes/Beep/Beep_writeup.md)
 7. [Cronos](Boxes/Cronos/Cronos_Writeup.md)
 8. [Nineveh](Boxes/Nineveh/Nineveh_writeup.md)
+9. [Solidstate](Boxes/Solidstate/Solidstate_writeup.md)
+10. [Node](Boxes/Node/Node_writeup.md)
+11. [Sense](Boxes/Sense/Sense_writeup.md)
+12. [Valentine](Boxes/Valentine/Valentine_writeup.md)
+13. [Poison](Boxes/Poison/Poison_writeup.md)
 
 ## Chanllenges
 
