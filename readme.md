@@ -19,6 +19,13 @@ The follwing list will contain all the solved boxes.
 11. [Sense](Boxes/Sense/Sense_writeup.md)
 12. [Valentine](Boxes/Valentine/Valentine_writeup.md)
 13. [Poison](Boxes/Poison/Poison_writeup.md)
+14. [Sunday](Boxes/Sunday/Sunday_writeup.md)
+15. [TartarSauce](Boxes/TartarSauce/TartarSauce_writeup.md)
+16. [Irked](Boxes/Irked/Irked_writeup.md)
+17. [FriendZone](Boxes/FriendZone/FriendZone_writeup.md)
+18. [SwagShop](Boxes/SwagShop/SwagShop_writeup.md)
+19. [Networked](Boxes/Networked/Networked_writeup.md)
+20. [Jarvis](Boxes/Jarvis/Jarvis_writeup.md)
 
 ## Chanllenges
 
